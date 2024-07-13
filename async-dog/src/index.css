@@ -75,7 +75,7 @@ label {
   width: 250px;
   height: 250px;
   border-radius: 10px;
-  border: 2px dotted #845ef7;
+  border: 2px solid #845ef7;
 }
 
 .spinner-container {
